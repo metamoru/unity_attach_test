@@ -208,6 +208,18 @@ pip-log.txt
 .coverage
 .tox
 
+*.swp
+*.nib
+*.unityproj
+*.sln
+*.pidb
+*.userprefs
+*.csproj
+Tempフォルダ
+Libraryフォルダ
+
+
+
 #Translations
 *.mo
 
