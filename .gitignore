@@ -215,8 +215,8 @@ pip-log.txt
 *.pidb
 *.userprefs
 *.csproj
-Tempフォルダ
-Libraryフォルダ
+Temp/*
+Library/*
 
 
 
